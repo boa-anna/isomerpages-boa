@@ -44,7 +44,7 @@ Apply for confirmatory examination
 
 [Application form for Section 15(1)(c)]({{site.baseurl}}/files/application_15_1_c.pdf)
 
-[Guidelines for Application Applying for Registration for the Confirmation Examination - 15(1)(c)]({{site.baseurl}}/files/guide_15_1_c.pdf)
+[Guidelines for Application Applying for Registration for the Confirmation Examination - 15(1)(c)]({{site.baseurl}}/files/Guidelines_for_Section_15(1)(c)_2019.pdf)
 
 [Pre-submission Briefing Form]({{site.baseurl}}/files/presubmission_briefing_form.pdf)
 
